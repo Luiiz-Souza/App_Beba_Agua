@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Beba Água</string>
+    <string name="hint_peso">Seu peso(Kg)</string>
+    <string name="hint_idade">Sua idade</string>
+    <string name="text_btn_calcular">CALCULAR INGESTÃO DIÁRIA</string>
+    <string name="text_lembrete">Lembrete</string>
+    <string name="text_alarm">Alarme</string>
+    <string name="text_hora">00</string>
+    <string name="text_dois_pontos">:</string>
+    <string name="text_minutos">00</string>
+    <string name="image_drinking_water">Imagem de um homem bebendo água</string>
+    <string name="ic_refresh_window">Icone de regarregar os calculos</string>
+    <string name="toast_weight_information">Informe seu peso</string>
+    <string name="toast_age_information">Informe sua idade</string>
+    <string name="dialogTitle">Redefinir Dados</string>
+    <string name="dialogMessage">Deseja excluir todos os dados existentes?</string>
+    <string name="alarmMessage">Hora de beber água!</string>
+    <string name="alarmMessageInfo">Para configurar o alarme é preciso fazer o cálculo da ingestão
+        diáira antes</string>
+
+</resources>

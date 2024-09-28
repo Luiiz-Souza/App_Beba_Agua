@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Teste_Aplicativo" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <item name="colorPrimaryVariant">@color/blue</item>
+    </style>
+
+    <style name="Theme.Teste_Aplicativo" parent="Base.Theme.Teste_Aplicativo" />
+</resources>
